@@ -23,3 +23,7 @@ STRING FUNCTIONS,
 DATA VALIDATION AND QUALITY CHECK,
 UPDATE AND
 JOINS
+
+## Results
+Created a cleaner and more consistent customer dataset, standardized innconsistenttext values,
+identified and handled missing and duplicate records, standardized date formates,and impronved data quality and consistency. 
